@@ -71,7 +71,5 @@
     </plugins>
 	</build>
 
-  <modules>
-    <module>module-info</module>
-  </modules>
+
 </project>
